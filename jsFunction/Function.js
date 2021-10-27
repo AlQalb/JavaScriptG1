@@ -42,6 +42,7 @@ abs = (a) => {
   return (a ** 2) ** 0.5;
 };
 
+
 console.log(abs(8));
 
 let tekst = 'welcome webbrain'.repeat(5);
