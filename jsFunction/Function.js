@@ -42,9 +42,7 @@ abs = (a) => {
   return (a ** 2) ** 0.5;
 };
 
-weC = 0;
-ac = 0;
-bc = 0;
+
 
 console.log(abs(8));
 
